@@ -16,15 +16,15 @@ This is used to assess a student's level of digital literacy and gain a baseline
 - [ ] Identify the computers USB ports - 2 pts
 
 **Using Applications and Navigating the Computer - 46 pts total (0 - 24 pts Support Needed)**
-- [ ] Open a text editor and create a new file (the instructor can help the student find the text editor) - 10 pts
-- [ ] Have the student type his or her name and date of birth in the file created in the step above - 10 pts
-- [ ] Save the file created above - 5 pts
-- [ ] Close the file created above - 5 pts
-- [ ] Open the file above - 5 pts
-- [ ] Have the student copy and paste their name and date of birth under where they just typed it - 2 pts 
-- [ ] Is able to use the shift key to type special characters - 2 pts
-- [ ] Delete the file that was created in the steps above - 2 pts
-- [ ] Navigate to the computer's downloads folders - 5 pts
+- [ x] Open a text editor and create a new file (the instructor can help the student find the text editor) - 10 pts
+- [ x] Have the student type his or her name and date of birth in the file created in the step above - 10 pts
+- [ x] Save the file created above - 5 pts
+- [ x] Close the file created above - 5 pts
+- [ x] Open the file above - 5 pts
+- [ x] Have the student copy and paste their name and date of birth under where they just typed it - 2 pts 
+- [ x] Is able to use the shift key to type special characters - 2 pts
+- [ x] Delete the file that was created in the steps above - 2 pts
+- [ x] Navigate to the computer's downloads folders - 5 pts
 
 **Basic Internet Operation - 44 pts total (0 - 29 pts Support Needed)**
 - [ ] Launch Google Chrome - 10 pts
